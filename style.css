@@ -739,10 +739,6 @@ h4 {
     color: #FFFFFF!important;
 }
 
-.txt_footer{
-    color: #232323;
-}
-
 .portfolio-thumb {
     margin-bottom: 24px;
 }
@@ -779,25 +775,21 @@ h4 {
 }
 
 .tc-white {
-    color: #FFA377!important;
-}
-
-.col-sm-12 .tc-white{
-    color: #232323 !important;
+    color: #F3976C!important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #232323!important;
+    color: #424242!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #F3976C!important;
-    color: #232323!important;
+    background: #c27956!important;
+    color: #424242!important;
 }
 
 .ltc-white {
-    color: #232323!important;
+    color: #FFFFFF!important;
 }
 
 .ltc-white:hover {
@@ -809,7 +801,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #F3976C!important;
+    color: #c27956!important;
 }
 
 .icon-dark-slate-blue {
