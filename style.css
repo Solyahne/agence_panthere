@@ -775,16 +775,41 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #F3976C !important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #424242!important;
+    color: #424242 !important;
 }
 
 #text_blocbas{
-    color: #ffffff!important;
+    color: #ffffff !important;
+    font-size: 20px;
+}
+
+.comment1{
+    font-size: 16px;
+    font-weight: bold;
+    width: 60%;
+    text-align: center;
+    margin: auto auto 20px auto;
+    color: #6C6C6C !important;
+}
+
+.comment2{
+    font-style: italic;
+    font-size: 16px;
+    font-weight: bold;
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    color: #6C6C6C !important;
+}
+
+.comment2 span{
+    font-style: normal;
+    font-weight: normal;
 }
 
 .btn-atomic-tangerine:hover {
@@ -811,6 +836,29 @@ h4 {
 .icon-dark-slate-blue {
     color: #364577!important;
     border-color: #364577!important;
+}
+
+.txt_footer{
+    color: #424242 !important;
+}
+
+#titre_page_contact{
+    color: #424242 !important;
+}
+
+.col-sm-12 h2{
+    font-size: 17px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#sous-titre{
+    font-size: 16px;
+}
+
+.txt_bloc_page_contact{
+    color: #424242 !important;
+    font-size: 16px;
 }
 
 .bg-dots-bg {
