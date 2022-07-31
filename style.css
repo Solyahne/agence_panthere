@@ -536,6 +536,8 @@ a[data-lightbox] {
     text-align: center;
 }
 
+
+
 a[data-lightbox]:hover::before {
     content: "+";
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial;
@@ -1077,6 +1079,12 @@ h4 {
     .blocsapp-device-iphone5 img {
         width: 180px;
         height: 320px;
+    }
+    .col-sm-6{
+        margin: auto;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
     }
 }
 
